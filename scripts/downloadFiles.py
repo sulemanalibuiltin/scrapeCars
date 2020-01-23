@@ -9,7 +9,6 @@ from tqdm import tqdm
 
 import requests
 
-
 # put return n itmes at a time from an interable
 def grouper(n, iterable):
     it = iter(iterable)
@@ -42,12 +41,13 @@ def workFunc(task):
 
 
 # read in tasking for files not already downloaded
-def readTasking(fname):
+def readTasking(fname, vehicle_type):
     taskList = list()
     tasking = open(fname, 'r')
     for task in tasking:
         task = task.strip()
         task = json.loads(task)
+        task['filename'] = vehicle_type + 's/' + task['filename']
         myf = Path(task['filename'])
         if not myf.is_file():
             taskList.append(task)
@@ -56,24 +56,32 @@ def readTasking(fname):
 
 
 def main(atOnce=1000):
+    if len(sys.argv) < 2: 
+        print 'include vehicle_type as arg (truck, car, or mpv)'
+        return
     p = Pool()
 
     # file detailing what to download
     # each line should be of format:
     # fileType,color,make,odel,url,namehash
-    fname = sys.argv[1]
+    vehicle_type = sys.argv[1]
+    # fname = sys.argv[1]
+    fname = vehicle_type+'s-dataset'
 
     # get listing of files to download
-    taskList = readTasking(fname)
+    taskList = readTasking(fname, vehicle_type)
 
-    print('processed {0} lines to download'.format(len(taskList)))
+    num_lines = len(taskList)
+    print('processed {0} lines to download'.format(num_lines))
     print('tasking loaded')
 
     good = open(fname + '.good', 'w')
     bad = open(fname + '.bad', 'w')
 
+    pbar = tqdm(total=num_lines)
+    count = 0
     # do the downloads in batches
-    for batch in tqdm(grouper(atOnce, taskList)):
+    for batch in grouper(atOnce, taskList):
 
         retval = p.map(workFunc, batch)
 
@@ -82,12 +90,14 @@ def main(atOnce=1000):
                 good.write(json.dumps(t) + '\n')
             else:
                 bad.write(json.dumps(t) + '\n')
-
+                
         good.flush()
         bad.flush()
+        pbar.update(atOnce)
 
+    pbar.close()
     good.close()
     bad.close()
 
 if __name__ == '__main__':
-    main()
+    main(250)

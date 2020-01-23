@@ -1,0 +1,491 @@
+"Mercury","Villager",2000,2002
+"Mercury","Mountaineer",2000,2002
+"Chevrolet","HHR",2006,2009
+"Chevrolet","HHR",2010,2011
+"Chevrolet","Blazer",2000,2001
+"Chevrolet","Venture",2001,2002
+"Chevrolet","Astro Van",2000,2003
+"Chevrolet","Astro Van",2004,2005
+"Chevrolet","Suburban",2000,2002
+"Chevrolet","Express",2000,2003
+"Chevrolet","Express",2004,2007
+"Chevrolet","Express",2008,2011
+"Chevrolet","Express",2012,2015
+"Chevrolet","Express",2016,2018
+"Chevrolet","SSR",2003,2006
+"Chevrolet","GMT-400",2000
+"Chevrolet","City Express",2015,2018
+"Chevrolet","Avalanche",2006
+"Chevrolet","Avalanche",2011,2012
+"Chevrolet","S-10",2000
+"Chevrolet","Tahoe",2000,2001
+"Chevrolet","Equinox",2006
+"Chevrolet","Silverado",2000,2003
+"Chevrolet","Silverado",2004,2007
+"Chevrolet","Silverado",2008,2011
+"Chevrolet","Silverado",2012,2015
+"Chevrolet","Silverado",2016,2018
+"Chevrolet","3 ton",2001,2004
+"Chevrolet","S-10 Pickup",2000,2003
+"Chevrolet","S-10 Pickup",2004,2005
+"Chevrolet","Colorado",2004,2007
+"Chevrolet","Colorado",2008,2011
+"Chevrolet","Colorado",2012,2015
+"Chevrolet","Colorado",2016,2018
+"Mercedes-Benz","LPS1525",2000,2003
+"Mercedes-Benz","LPS1525",2004,2007
+"Mercedes-Benz","LPS1525",2008,2011
+"Mercedes-Benz","LPS1525",2012,2015
+"Mercedes-Benz","LPS1525",2016,2018
+"Mercedes-Benz","L1013",2000,2003
+"Mercedes-Benz","L1013",2004,2007
+"Mercedes-Benz","L1013",2008,2011
+"Mercedes-Benz","L1013",2012,2015
+"Mercedes-Benz","L1013",2016,2018
+"Mercedes-Benz","L1117",2000,2003
+"Mercedes-Benz","L1117",2004,2007
+"Mercedes-Benz","L1117",2008,2011
+"Mercedes-Benz","L1117",2012,2015
+"Mercedes-Benz","L1117",2016,2018
+"Mercedes-Benz","L1113",2000,2003
+"Mercedes-Benz","L1113",2004,2007
+"Mercedes-Benz","L1113",2008,2011
+"Mercedes-Benz","L1113",2012,2015
+"Mercedes-Benz","L1113",2016,2018
+"Mercedes-Benz","L1419",2000,2003
+"Mercedes-Benz","L1419",2004,2007
+"Mercedes-Benz","L1419",2008,2011
+"Mercedes-Benz","L1419",2012,2015
+"Mercedes-Benz","L1419",2016,2018
+"Mercedes-Benz","LP1419",2000,2003
+"Mercedes-Benz","LP1419",2004,2007
+"Mercedes-Benz","LP1419",2008,2011
+"Mercedes-Benz","LP1419",2012,2015
+"Mercedes-Benz","LP1419",2016,2018
+"Mercedes-Benz","L1316",2000,2003
+"Mercedes-Benz","L1316",2004,2007
+"Mercedes-Benz","L1316",2008,2011
+"Mercedes-Benz","L1316",2012,2015
+"Mercedes-Benz","L1316",2016,2018
+"Mercedes-Benz","L1418",2000,2003
+"Mercedes-Benz","L1418",2004,2007
+"Mercedes-Benz","L1418",2008,2011
+"Mercedes-Benz","L1418",2012,2015
+"Mercedes-Benz","L1418",2016,2018
+"Mercedes-Benz","L1317",2000,2003
+"Mercedes-Benz","L1317",2004,2007
+"Mercedes-Benz","L1317",2008,2011
+"Mercedes-Benz","L1317",2012,2015
+"Mercedes-Benz","L1317",2016,2018
+"Mercedes-Benz","L1116",2000,2003
+"Mercedes-Benz","L1116",2004,2007
+"Mercedes-Benz","L1116",2008,2011
+"Mercedes-Benz","L1116",2012,2015
+"Mercedes-Benz","L1116",2016,2018
+"Mercedes-Benz","L1319",2000,2003
+"Mercedes-Benz","L1319",2004,2007
+"Mercedes-Benz","L1319",2008,2011
+"Mercedes-Benz","L1319",2012,2015
+"Mercedes-Benz","L1319",2016,2018
+"Mercedes-Benz","LP1219",2000,2003
+"Mercedes-Benz","LP1219",2004,2007
+"Mercedes-Benz","LP1219",2008,2011
+"Mercedes-Benz","LP1219",2012,2015
+"Mercedes-Benz","LP1219",2016,2018
+"Mercedes-Benz","Sprinter",2010,2013
+"Mercedes-Benz","Sprinter",2014,2017
+"Mercedes-Benz","Sprinter",2018
+"Mercedes-Benz","METRIS",2016,2018
+"Volkswagen","Routan",2012,2014
+"Suzuki","Equator",2009,2012
+"Suzuki","Equator",2013,2016
+"Suzuki","Equator",2017,2018
+"Dodge","Ram Wagon",2000,2003
+"Dodge","Ram Wagon",2004,2007
+"Dodge","Ram Wagon",2008,2011
+"Dodge","Ram Wagon",2012,2015
+"Dodge","Ram Wagon",2016,2018
+"Dodge","Caravan",2000,2003
+"Dodge","Caravan",2004,2007
+"Dodge","Caravan",2008,2011
+"Dodge","Caravan",2012,2015
+"Dodge","Caravan",2016,2018
+"Dodge","Ram",2000,2003
+"Dodge","Ram",2004,2007
+"Dodge","Ram",2008,2011
+"Dodge","Ram",2012,2015
+"Dodge","Ram",2016,2018
+"Dodge","Durango",2000,2003
+"Dodge","Durango",2004,2007
+"Dodge","Durango",2008,2011
+"Dodge","Durango",2012,2015
+"Dodge","Durango",2016,2018
+"Dodge","Ram Van",2000,2003
+"Dodge","Ram Van",2004,2007
+"Dodge","Ram Van",2008,2011
+"Dodge","Ram Van",2012,2015
+"Dodge","Ram Van",2016,2018
+"Dodge","Caravan or Grand Caravan",2000,2001
+"Dodge","Caravan or Grand Caravan",2012,2015
+"Dodge","Caravan or Grand Caravan",2016,2018
+"Dodge","Journey",2012,2015
+"Dodge","Journey",2016,2018
+"Dodge","Nitro",2012
+"Dodge","Sprinter",2005,2008
+"Dodge","Sprinter",2009,2012
+"Dodge","Sprinter",2013,2016
+"Dodge","Sprinter",2017,2018
+"Dodge","Dakota",2000,2003
+"Dodge","Dakota",2004,2007
+"Dodge","Dakota",2008,2011
+"Dodge","Dakota",2012,2015
+"Dodge","Dakota",2016,2018
+"Dodge","Ram Chassis Cab",2007,2010
+"Dodge","Ram Chassis Cab",2011,2014
+"Dodge","Ram Chassis Cab",2015,2018
+"Dodge","Chassis with Powertrain",2011,2014
+"Dodge","Chassis with Powertrain",2015,2018
+"Dodge","Grand Caravan",2000,2003
+"Dodge","Grand Caravan",2004,2007
+"Dodge","Grand Caravan",2008,2011
+"Dodge","Grand Caravan",2012,2015
+"Dodge","Grand Caravan",2016,2018
+"Isuzu","NQR",2000,2003
+"Isuzu","NQR",2004
+"Isuzu","T7F",2003,2006
+"Isuzu","T7F",2007,2010
+"Isuzu","F6",2000,2002
+"Isuzu","F7",2000,2002
+"Isuzu","T8F",2003,2006
+"Isuzu","T8F",2007,2010
+"Isuzu","NQR or NRR",2005,2008
+"Isuzu","NQR or NRR",2009,2010
+"Isuzu","FRR",2000,2003
+"Isuzu","FRR",2004
+"Isuzu","NPR or NPR-HD",2000,2003
+"Isuzu","NPR or NPR-HD",2004,2005
+"Isuzu","H-Series",2005,2008
+"Isuzu","T6F",2003,2006
+"Isuzu","T6F",2007,2010
+"Isuzu","NPR",2006,2009
+"Isuzu","NPR",2010
+"Cadillac","Escalade",2011,2013
+"Cadillac","SRX",2011,2012
+"Honda","Accord",2000,2003
+"Honda","Accord",2004,2007
+"Honda","Accord",2008,2011
+"Honda","Accord",2012,2013
+"Honda","Ridgeline",2006,2009
+"Honda","Ridgeline",2010,2013
+"Honda","Ridgeline",2014,2017
+"Honda","Ridgeline",2018
+"Ford","F-800",2000,2002
+"Ford","E-550",2002,2003
+"Ford","B-750",2002
+"Ford","Explorer",2000,2002
+"Ford","F-350",2000,2003
+"Ford","F-350",2004,2007
+"Ford","F-350",2008,2011
+"Ford","F-350",2012,2015
+"Ford","F-350",2016,2018
+"Ford","E-350",2000,2003
+"Ford","E-350",2004,2007
+"Ford","E-350",2008,2011
+"Ford","E-350",2012,2014
+"Ford","F-150 Heritage",2004
+"Ford","E-250",2000,2003
+"Ford","E-250",2004,2007
+"Ford","E-250",2008,2011
+"Ford","E-250",2012,2014
+"Ford","Explorer Sport Trac",2001,2002
+"Ford","Ranger",2000,2003
+"Ford","Ranger",2004,2007
+"Ford","Ranger",2008,2011
+"Ford","Freestar",2004,2007
+"Ford","Motorhome Chassis",2000,2002
+"Ford","E-450",2000,2003
+"Ford","E-450",2004,2007
+"Ford","E-450",2008,2011
+"Ford","E-450",2012,2014
+"Ford","F-250",2000,2003
+"Ford","F-250",2004,2007
+"Ford","F-250",2008,2011
+"Ford","F-250",2012,2015
+"Ford","F-250",2016,2018
+"Ford","Windstar",2000,2003
+"Ford","F-150",2000,2003
+"Ford","F-150",2004,2007
+"Ford","F-150",2008,2011
+"Ford","F-150",2012,2015
+"Ford","F-150",2016,2018
+"Ford","F-650",2000,2002
+"Ford","F-650",2004,2007
+"Ford","F-650",2008
+"Ford","Taurus X",2008,2009
+"Ford","Transit Connect",2010,2013
+"Ford","Transit Connect",2014,2017
+"Ford","Transit Connect",2018
+"Ford","Excursion",2000,2002
+"Ford","E-150",2000,2003
+"Ford","E-150",2004,2007
+"Ford","E-150",2008,2011
+"Ford","E-150",2012,2014
+"Ford","Expedition",2000,2002
+"Ford","Transit",2015,2018
+"Ford","Freestyle",2005,2007
+"Ford","F-550",2000,2003
+"Ford","F-550",2004,2007
+"Ford","F-550",2008,2011
+"Ford","F-550",2012,2015
+"Ford","F-550",2016,2018
+"Ford","F-750",2000,2002
+"Ford","F-750",2004,2007
+"Ford","F-750",2008
+"Ford","Escape",2001,2002
+"Ford","F-450",2000,2003
+"Ford","F-450",2004,2007
+"Ford","F-450",2008,2011
+"Ford","F-450",2012,2015
+"Ford","F-450",2016,2018
+"Mazda","B-Series",2000,2003
+"Mazda","B-Series",2004,2007
+"Mazda","B-Series",2008,2011
+"Mazda","B-Series",2012,2015
+"Mazda","B-Series",2016,2018
+"Jeep","Grand Cherokee",2000,2003
+"Jeep","Grand Cherokee",2004,2007
+"Jeep","Grand Cherokee",2008,2011
+"Jeep","Grand Cherokee",2012,2015
+"Jeep","Grand Cherokee",2016,2018
+"Jeep","Wrangler",2000,2003
+"Jeep","Wrangler",2004,2007
+"Jeep","Wrangler",2008,2011
+"Jeep","Wrangler",2012,2015
+"Jeep","Wrangler",2016,2018
+"Jeep","Cherokee",2000,2003
+"Jeep","Cherokee",2004,2007
+"Jeep","Cherokee",2008,2011
+"Jeep","Cherokee",2012,2015
+"Jeep","Cherokee",2016,2018
+"Jeep","Patriot",2007,2010
+"Jeep","Patriot",2011,2014
+"Jeep","Patriot",2015,2018
+"Jeep","Liberty",2000,2003
+"Jeep","Liberty",2004,2007
+"Jeep","Liberty",2008,2011
+"Jeep","Liberty",2012,2015
+"Jeep","Liberty",2016,2018
+"Jeep","Commander",2006,2009
+"Jeep","Commander",2010,2013
+"Jeep","Commander",2014,2017
+"Jeep","Commander",2018
+"Jeep","Liberty or Cherokee",2006,2009
+"Jeep","Liberty or Cherokee",2010,2013
+"Jeep","Liberty or Cherokee",2014,2017
+"Jeep","Liberty or Cherokee",2018
+"Jeep","Compass",2006,2009
+"Jeep","Compass",2010,2013
+"Jeep","Compass",2014,2017
+"Jeep","Compass",2018
+"Mitsubishi","3000 GT Spyder",2000,2003
+"Mitsubishi","3000 GT Spyder",2004,2007
+"Mitsubishi","3000 GT Spyder",2008,2011
+"Mitsubishi","3000 GT Spyder",2012,2015
+"Mitsubishi","3000 GT Spyder",2016,2018
+"Mitsubishi","Galant",2000,2003
+"Mitsubishi","Galant",2004,2007
+"Mitsubishi","Galant",2008,2011
+"Mitsubishi","Galant",2012,2015
+"Mitsubishi","Galant",2016,2018
+"Mitsubishi","3000 GT",2000,2003
+"Mitsubishi","3000 GT",2004,2007
+"Mitsubishi","3000 GT",2008,2011
+"Mitsubishi","3000 GT",2012,2015
+"Mitsubishi","3000 GT",2016,2018
+"Mitsubishi","Diamante",2000,2003
+"Mitsubishi","Diamante",2004,2007
+"Mitsubishi","Diamante",2008,2011
+"Mitsubishi","Diamante",2012,2015
+"Mitsubishi","Diamante",2016,2018
+"Mitsubishi","Expo",2000,2003
+"Mitsubishi","Expo",2004,2007
+"Mitsubishi","Expo",2008,2011
+"Mitsubishi","Expo",2012,2015
+"Mitsubishi","Expo",2016,2018
+"Mitsubishi","Mighty Max",2000,2003
+"Mitsubishi","Mighty Max",2004,2007
+"Mitsubishi","Mighty Max",2008,2011
+"Mitsubishi","Mighty Max",2012,2015
+"Mitsubishi","Mighty Max",2016,2018
+"Mitsubishi","Mirage",2000,2003
+"Mitsubishi","Mirage",2004,2007
+"Mitsubishi","Mirage",2008,2011
+"Mitsubishi","Mirage",2012,2015
+"Mitsubishi","Mirage",2016,2018
+"Mitsubishi","Raider",2000,2003
+"Mitsubishi","Raider",2004,2007
+"Mitsubishi","Raider",2008,2011
+"Mitsubishi","Raider",2012,2015
+"Mitsubishi","Raider",2016,2018
+"Mitsubishi","Montero",2000,2003
+"Mitsubishi","Montero",2004,2007
+"Mitsubishi","Montero",2008,2011
+"Mitsubishi","Montero",2012,2015
+"Mitsubishi","Montero",2016,2018
+"Fiat","Freemont",2012,2015
+"Fiat","Freemont",2016,2018
+"Hummer","H2",2009,2011
+"Hummer","H3",2009,2011
+"Lincoln","Navigator",2000,2002
+"Lincoln","Mark LT",2006,2008
+"Lincoln","Blackwood",2002,2003
+"GMC","Sonoma",2000,2003
+"GMC","Sonoma",2004
+"GMC","Terrain",2010,2011
+"GMC","Yukon XL",2000,2003
+"GMC","Yukon XL",2010,2011
+"GMC","Canyon",2004,2007
+"GMC","Canyon",2008,2011
+"GMC","Canyon",2012,2015
+"GMC","Canyon",2016,2018
+"GMC","Acadia",2010,2011
+"GMC","Safari",2000,2003
+"GMC","Safari",2004,2005
+"GMC","Sierra",2000,2003
+"GMC","Sierra",2004,2007
+"GMC","Sierra",2008,2011
+"GMC","Sierra",2012,2015
+"GMC","Sierra",2016,2018
+"GMC","Savana",2000,2003
+"GMC","Savana",2004,2007
+"GMC","Savana",2008,2011
+"GMC","Savana",2012,2015
+"GMC","Savana",2016,2018
+"GMC","Yukon",2010,2011
+"Nissan","Pathfinder",2000,2003
+"Nissan","Pathfinder",2004
+"Nissan","Frontier",2000,2003
+"Nissan","Frontier",2004,2007
+"Nissan","Frontier",2008,2011
+"Nissan","Frontier",2012,2015
+"Nissan","Frontier",2016,2018
+"Nissan","Titan",2002,2005
+"Nissan","Titan",2006,2009
+"Nissan","Titan",2010,2013
+"Nissan","Titan",2014,2017
+"Nissan","Titan",2018
+"Nissan","NV200",2013,2016
+"Nissan","NV200",2017,2018
+"Nissan","Murano",2002,2004
+"Nissan","Quest",2000,2003
+"Nissan","Quest",2004,2006
+"Nissan","Xterra",2002,2004
+"Nissan","Cube",2009,2012
+"Nissan","Cube",2013,2014
+"Nissan","Armada",2002,2004
+"Nissan","NV",2012,2015
+"Nissan","NV",2016,2018
+"Toyota","T100",2000,2003
+"Toyota","T100",2004,2007
+"Toyota","T100",2008,2011
+"Toyota","T100",2012,2015
+"Toyota","T100",2016,2018
+"Toyota","Tacoma",2000,2003
+"Toyota","Tacoma",2004,2007
+"Toyota","Tacoma",2008,2011
+"Toyota","Tacoma",2012,2015
+"Toyota","Tacoma",2016,2018
+"Toyota","Tundra",2000,2003
+"Toyota","Tundra",2004,2007
+"Toyota","Tundra",2008,2011
+"Toyota","Tundra",2012,2015
+"Toyota","Tundra",2016,2018
+"Volvo","Cab Over Engine LT",2000,2003
+"Volvo","Cab Over Engine LT",2004,2007
+"Volvo","Cab Over Engine LT",2008,2011
+"Volvo","Cab Over Engine LT",2012,2015
+"Volvo","Cab Over Engine LT",2016,2018
+"Volvo","F12 w or F7 Cab",2000,2003
+"Volvo","F12 w or F7 Cab",2004,2007
+"Volvo","F12 w or F7 Cab",2008,2011
+"Volvo","F12 w or F7 Cab",2012,2015
+"Volvo","F12 w or F7 Cab",2016,2018
+"Volvo","Cab Over Engine Prod. Class 07 (USA)",2000,2003
+"Volvo","Cab Over Engine Prod. Class 07 (USA)",2004,2007
+"Volvo","Cab Over Engine Prod. Class 07 (USA)",2008,2011
+"Volvo","Cab Over Engine Prod. Class 07 (USA)",2012,2015
+"Volvo","Cab Over Engine Prod. Class 07 (USA)",2016,2018
+"Volvo","Cab Over Engine HT",2000,2003
+"Volvo","Cab Over Engine HT",2004,2007
+"Volvo","Cab Over Engine HT",2008,2011
+"Volvo","Cab Over Engine HT",2012,2015
+"Volvo","Cab Over Engine HT",2016,2018
+"Volvo","Cab behind engine",2000,2003
+"Volvo","Cab behind engine",2004,2007
+"Volvo","Cab behind engine",2008,2011
+"Volvo","Cab behind engine",2012,2015
+"Volvo","Cab behind engine",2016,2018
+"Volvo","Cab Over Engine Prod. Class 03",2000,2003
+"Volvo","Cab Over Engine Prod. Class 03",2004,2007
+"Volvo","Cab Over Engine Prod. Class 03",2008,2011
+"Volvo","Cab Over Engine Prod. Class 03",2012,2015
+"Volvo","Cab Over Engine Prod. Class 03",2016,2018
+"Volvo","F6 w or F7 Cab",2000,2003
+"Volvo","F6 w or F7 Cab",2004,2007
+"Volvo","F6 w or F7 Cab",2008,2011
+"Volvo","F6 w or F7 Cab",2012,2015
+"Volvo","F6 w or F7 Cab",2016,2018
+"Volvo","Cab Over Engine Prod. Class 07",2000,2003
+"Volvo","Cab Over Engine Prod. Class 07",2004,2007
+"Volvo","Cab Over Engine Prod. Class 07",2008,2011
+"Volvo","Cab Over Engine Prod. Class 07",2012,2015
+"Volvo","Cab Over Engine Prod. Class 07",2016,2018
+"Plymouth","Voyager",2000,2003
+"Plymouth","Voyager",2004,2007
+"Plymouth","Voyager",2008,2011
+"Plymouth","Voyager",2012,2015
+"Plymouth","Voyager",2016,2018
+"Plymouth","Grand Voyager",2000,2003
+"Plymouth","Grand Voyager",2004,2007
+"Plymouth","Grand Voyager",2008,2011
+"Plymouth","Grand Voyager",2012,2015
+"Plymouth","Grand Voyager",2016,2018
+"Chrysler","Voyager",2000,2003
+"Chrysler","Grand Voyager",2000
+"Chrysler","300",2008,2011
+"Chrysler","300",2012,2015
+"Chrysler","300",2016,2018
+"Chrysler","Caravan",2002,2003
+"Chrysler","PT Cruiser",2001,2003
+"Chrysler","PT Cruiser",2008,2011
+"Chrysler","PT Cruiser",2012,2015
+"Chrysler","PT Cruiser",2016,2018
+"Chrysler","Pacifica",2008,2011
+"Chrysler","Pacifica",2012,2015
+"Chrysler","Pacifica",2016,2018
+"Chrysler","Town & Country",2000,2003
+"Chrysler","Town & Country",2008,2011
+"Chrysler","Town & Country",2012,2015
+"Chrysler","Town & Country",2016,2018
+"Chrysler","Aspen",2008,2011
+"Chrysler","Aspen",2012,2015
+"Chrysler","Aspen",2016,2018
+"Ram","Promaster 2500",2014,2017
+"Ram","Promaster 2500",2018
+"Ram","Cargo Van",2013,2016
+"Ram","3500",2013,2016
+"Ram","3500",2017,2018
+"Ram","Promaster 3500",2014,2017
+"Ram","Promaster 3500",2018
+"Ram","4000",2013,2016
+"Ram","4000",2017,2018
+"Ram","1500",2013,2016
+"Ram","1500",2017,2018
+"Ram","4500",2013,2016
+"Ram","4500",2017,2018
+"Ram","Promaster 1500",2014,2017
+"Ram","Promaster 1500",2018
+"Ram","5500",2013,2016
+"Ram","5500",2017,2018
+"Ram","2500",2013,2016
+"Ram","2500",2017,2018

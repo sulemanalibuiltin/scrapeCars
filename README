@@ -1,10 +1,10 @@
-How lazy can I be making a dataset of car images
+Forked from: https://github.com/d-grossman/scrapeCars
 
-car make and models derived from: https://github.com/n8barr/automotive-model-year-data
-most popular car colors : http://www.forbes.com/pictures/egdh45ijhf/1-white/#413d9991b1d4
-deepLearning repos: https://github.com/fchollet/deep-learning-models
-
-Commented out the line saying to use ANY image form GIS, now usage rights = free to share (I think)
+Changed some scripts and collected car URLs up to 2018. Use
+```
+python downloadFiles.py car
+```
+along with the car dataset found in datasets to start collecting car images. Other options [mpv, truck].
 
 -----
 general workflow:

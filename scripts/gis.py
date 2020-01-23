@@ -1,7 +1,15 @@
 import json
 from hashlib import md5
-from urllib.request import Request
-from urllib.request import urlopen
+
+try: 
+    from urllib.request import Request
+except:
+    from urllib2 import Request
+
+try: 
+    from urllib.request import urlopen
+except:
+    from urllib2 import urlopen
 
 from bs4 import BeautifulSoup
 from tqdm import tqdm
